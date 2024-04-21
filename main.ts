@@ -1,4 +1,4 @@
-#!/ usr/bin/env/node;
+#!/usr/bin/env node
 //Import modules
 import inquirer from "inquirer";
 import chalkAnimation from "chalk-animation";
